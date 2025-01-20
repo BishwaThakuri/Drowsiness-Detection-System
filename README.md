@@ -31,10 +31,7 @@ This project is a real-time drowsiness detection system that utilizes computer v
     - Extract the `.dat` file and place it in the project directory.
 
 ## Running the Application
-1. Run the Python script:
-    ```bash
-    python app.py
-    ```
+1. Run the Python script.
 
 2. The application will start the camera and monitor for signs of drowsiness. To stop the application, press `q`.
 
